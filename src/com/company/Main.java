@@ -24,7 +24,8 @@ public class Main {
                     switch (){
 
                     }
-
+                case 2:
+                    personas.irse();
             }
         }
     }

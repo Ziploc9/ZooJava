@@ -9,7 +9,10 @@ public class Zoologico {
     private boolean abierto;
     private String direccion;
 
+    public void listar_animales(){
 
+
+    }
 
 
 }
