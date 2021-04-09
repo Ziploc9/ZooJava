@@ -24,4 +24,8 @@ public class Personas {
     public void mirar(){
         System.out.println("Estas mirando el lugar");
     }
+
+    public void irse(){
+        System.out.println("Te vas a tu casa.");
+    }
 }

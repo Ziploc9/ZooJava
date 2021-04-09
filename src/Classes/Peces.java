@@ -31,4 +31,9 @@ public class Peces extends Animales {
     public void jugar(String nombre) {
         super.jugar(nombre);
     }
+
+    @Override
+    public void caminar(String nombre) {
+        super.caminar(nombre);
+    }
 }
