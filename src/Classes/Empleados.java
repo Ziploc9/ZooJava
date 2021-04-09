@@ -1,4 +1,4 @@
 package Classes;
 
-public class Empleados {
+public class Empleados extends Personas{
 }

@@ -1,4 +1,5 @@
 package Classes;
 
-public class Visitantes {
+public class Visitantes extends Personas{
+
 }
